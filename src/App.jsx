@@ -17,10 +17,10 @@ function App() {
       <UpHeader />
       <Header />
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/serviços" element={<Serviços />} />
-        <Route path="/sobre" element={<Sobre />} />
-        <Route path="/contato" element={<Contato />} />
+        <Route path="/TerraMap-Site/" element={<Home />} />
+        <Route path="/TerraMap-Site/serviços" element={<Serviços />} />
+        <Route path="/TerraMap-Site/sobre" element={<Sobre />} />
+        <Route path="/TerraMap-Site/contato" element={<Contato />} />
       </Routes>
       <Footer />
     </div>
