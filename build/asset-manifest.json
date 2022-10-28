@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/TerraMap-Site/static/css/main.8e8168e9.css",
+    "main.js": "/TerraMap-Site/static/js/main.53e61531.js",
+    "static/media/exemplo.png": "/TerraMap-Site/static/media/exemplo.96754918a8d86a36b59f.png",
+    "static/media/Logo-1.jpg": "/TerraMap-Site/static/media/Logo-1.b1132ca982f908860bd8.jpg",
+    "static/media/local.png": "/TerraMap-Site/static/media/local.4f305d2cc9857514b88b.png",
+    "static/media/1257.png": "/TerraMap-Site/static/media/1257.78351f1f3fe68c63cab9.png",
+    "static/media/email-icon.png": "/TerraMap-Site/static/media/email-icon.f50caa43436d2b5d2e80.png",
+    "index.html": "/TerraMap-Site/index.html",
+    "main.8e8168e9.css.map": "/TerraMap-Site/static/css/main.8e8168e9.css.map",
+    "main.53e61531.js.map": "/TerraMap-Site/static/js/main.53e61531.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e8168e9.css",
+    "static/js/main.53e61531.js"
+  ]
+}

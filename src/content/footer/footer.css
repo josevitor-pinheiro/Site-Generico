@@ -1,0 +1,27 @@
+.footer-container {
+  display: flex;
+  height: 25px;
+  position: fixed;
+  bottom: 0px;
+  width: 100vw;
+  margin: 0;
+  left: 0;
+  max-height: auto;
+  background-color: #20293a;
+  color: white;
+  align-items: center;
+  justify-content: center;
+  font-size: smaller;
+  font-weight: 300;
+}
+
+#icone-insta {
+  display: flex;
+  height: 30px;
+}
+
+@media screen and (max-width:425px) {
+  .footer-container {
+    font-size: 0.7rem;
+  }
+}

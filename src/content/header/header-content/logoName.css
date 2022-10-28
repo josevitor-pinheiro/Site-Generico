@@ -1,0 +1,24 @@
+.imageContainer {
+  display: flex;
+  width: 300px;
+  height: 80%;
+}
+
+#logoTerraMap {
+  display: flex;
+}
+
+@media screen and (max-width: 1024px) {
+  .imageContainer {
+    margin-right: 20px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+    .imageContainer {
+        display: none;
+    }
+    hr {
+        display: none;
+    }
+}
