@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Site-Generico/static/css/main.9b2c727e.css",
+    "main.js": "/Site-Generico/static/js/main.4996ed58.js",
+    "static/media/logoGenerico.jpg": "/Site-Generico/static/media/logoGenerico.b28b481c69c1d20725de.jpg",
+    "static/media/local.png": "/Site-Generico/static/media/local.4f305d2cc9857514b88b.png",
+    "static/media/1257.png": "/Site-Generico/static/media/1257.78351f1f3fe68c63cab9.png",
+    "static/media/email-icon.png": "/Site-Generico/static/media/email-icon.f50caa43436d2b5d2e80.png",
+    "index.html": "/Site-Generico/index.html",
+    "main.9b2c727e.css.map": "/Site-Generico/static/css/main.9b2c727e.css.map",
+    "main.4996ed58.js.map": "/Site-Generico/static/js/main.4996ed58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b2c727e.css",
+    "static/js/main.4996ed58.js"
+  ]
+}
